@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/drawable-ldpi/sm_button_background.xml" value="0.12702702702702703" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/drawable/category_background1.xml" value="0.12702702702702703" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_card_list.xml" value="0.22" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_final.xml" value="0.14743589743589744" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_intro.xml" value="0.11655405405405406" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_show_detail.xml" value="0.11655405405405406" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/viewholder_card.xml" value="0.13999999999999999" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/viewholder_cat.xml" value="0.16666666666666666" />
+        <entry key="..\:/Java/Apps/FoodOrderApp/project39/project/app/src/main/res/layout/viewholder_popular.xml" value="0.13999999999999999" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14743589743589744" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
