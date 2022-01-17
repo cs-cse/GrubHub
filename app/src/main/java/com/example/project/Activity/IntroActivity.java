@@ -32,14 +32,14 @@ public class IntroActivity extends AppCompatActivity {
 
         AlertDialog.Builder builder=new AlertDialog.Builder(this);
         builder.setMessage("LEAVING SO EARLY :( ").setCancelable(false).
-                setPositiveButton("Unfortunately ", new DialogInterface.OnClickListener() {
+                setPositiveButton("Exit ", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                        IntroActivity.super.onBackPressed();
                     }
                 })
 
-                .setNegativeButton("Not yet ", new DialogInterface.OnClickListener() {
+                .setNegativeButton("Cancel ", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         dialogInterface.cancel();
